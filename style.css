@@ -79,3 +79,7 @@ a:active {
     width: fit-content;
     margin:16px
 }
+.fit_img{
+    width: 100px;
+    margin:16px
+}
