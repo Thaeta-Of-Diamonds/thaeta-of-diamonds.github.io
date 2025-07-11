@@ -1,2 +1,2 @@
-# spire-winder.github.io
-spire-winder's personal site
+# thaeta.github.io
+thaeta's personal site
